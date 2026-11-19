@@ -1,0 +1,175 @@
+{
+  "failures": 0,
+  "checks": [
+    {
+      "name": "Desktop window constructs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "English decision/action/question classification",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Explicit owner and deadline",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Negative decision not promoted",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Missing owner and deadline stay unspecified",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Explicit natural-language owner and relative deadline preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Chinese rules",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Traditional Chinese speech wording",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Tentative, conditional, and negated claims excluded",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Every original statement retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Empty notes rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Oversize notes rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Network paths rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Markdown import",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "UTF-16 Chinese import",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Invalid text encoding rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Markdown export round trip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Plain text export",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Unsupported export rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Corrupt audio rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Silence rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Cancellation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "en .wav local transcription",
+      "passed": true,
+      "detail": "Today we reviewed the project report.\r\nWe decided to begin the internal pilot.\r\nAlice will send the report by Friday.\r\nThe budget is still an open question."
+    },
+    {
+      "name": "en .wav transcription to exported minutes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "en .mp3 local transcription",
+      "passed": true,
+      "detail": "Today we reviewed the project report.\r\nWe decided to begin the internal pilot.\r\nAlice will send the report by Friday.\r\nThe budget is still an open question."
+    },
+    {
+      "name": "en .mp3 transcription to exported minutes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "en .m4a local transcription",
+      "passed": true,
+      "detail": "Today we reviewed the project report.\r\nWe decided to begin the internal pilot.\r\nAlice will send the report by Friday.\r\nThe budget is still an open question."
+    },
+    {
+      "name": "en .m4a transcription to exported minutes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "zh .wav local transcription",
+      "passed": true,
+      "detail": "\u4ECA\u5929\u6211\u5011\u8A0E\u8AD6\u4E86\u9805\u76EE\u5831\u544A\u3002\r\n\u6211\u5011\u6C7A\u5B9A\u555F\u52D5\u5167\u90E8\u6E2C\u8A66\u3002\r\n\u5F35\u5049\u8CA0\u8CAC\u5728\u661F\u671F\u4E94\u4E4B\u524D\u63D0\u4EA4\u5831\u544A\u3002\r\n\u9810\u7B97\u554F\u984C\u9084\u9700\u8981\u9032\u4E00\u6B65\u78BA\u8A8D\u3002"
+    },
+    {
+      "name": "zh .wav transcription to exported minutes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "zh .mp3 local transcription",
+      "passed": true,
+      "detail": "\u4ECA\u5929\u6211\u5011\u8A0E\u8AD6\u4E86\u9805\u76EE\u5831\u544A\u3002\r\n\u6211\u5011\u6C7A\u5B9A\u555F\u52D5\u5167\u90E8\u6E2C\u8A66\u3002\r\n\u5F35\u5049\u8CA0\u8CAC\u5728\u661F\u671F\u4E94\u4E4B\u524D\u63D0\u4EA4\u5831\u544A\u3002\r\n\u9810\u7B97\u554F\u984C\u9084\u9700\u8981\u9032\u4E00\u6B65\u78BA\u8A8D\u3002"
+    },
+    {
+      "name": "zh .mp3 transcription to exported minutes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "zh .m4a local transcription",
+      "passed": true,
+      "detail": "\u4ECA\u5929\u6211\u5011\u8A0E\u8AD6\u4E86\u9805\u76EE\u5831\u544A\u3002\r\n\u6211\u5011\u6C7A\u5B9A\u555F\u52D5\u5167\u90E8\u6E2C\u8A66\u3002\r\n\u5F35\u5049\u8CA0\u8CAC\u5728\u661F\u671F\u4E94\u4E4B\u524D\u63D0\u4EA4\u5831\u544A\u3002\r\n\u9810\u7B97\u554F\u984C\u9084\u9700\u8981\u9032\u4E00\u6B65\u78BA\u8A8D\u3002"
+    },
+    {
+      "name": "zh .m4a transcription to exported minutes",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>false</PublishSingleFile>
+    <AssemblyName>MinuteFlow</AssemblyName>
+    <Version>1.0.0</Version>
+    <Company>MinuteFlow</Company>
+    <Description>Private Meetings. Local Intelligence.</Description>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <NuGetAudit>false</NuGetAudit>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Whisper.net" Version="1.8.1"/>
+    <PackageReference Include="Whisper.net.Runtime" Version="1.8.1"/>
+    <PackageReference Include="NAudio" Version="2.2.1"/>
+  </ItemGroup>
+</Project>
